@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
+	<infoitem key="PageAccessControl" value="admin" />
+	<infoitem key="MM_Session1" value="staffid" />
+	<infoitem key="MM_Session_Count" value="8" />
+	<infoitem key="MM_Session2" value="MM_Username" />
+	<infoitem key="MM_Session3" value="id_No" />
+	<infoitem key="MM_Session4" value="name" />
+	<infoitem key="MM_Session5" value="department" />
+	<infoitem key="MM_Session6" value="position" />
+	<infoitem key="MM_URL1" value="pass" />
+	<infoitem key="MM_URL_Count" value="5" />
+	<infoitem key="MM_URL2" value="id_No" />
+	<infoitem key="MM_URL3" value="name" />
+	<infoitem key="MM_URL4" value="department" />
+	<infoitem key="MM_URL5" value="position" />
+	<infoitem key="MM_Session7" value="fname" />
+	<infoitem key="MM_Session8" value="MM_Fname" />
+</info>

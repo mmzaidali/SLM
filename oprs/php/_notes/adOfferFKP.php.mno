@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fakulti" value="name:name;datatype:string,name:id_No;datatype:string,name:department;datatype:string,name:position;datatype:string" />
+	<infoitem key="UD_admin" value="name:adminID;datatype:int,name:username;datatype:string,name:password;datatype:string" />
+</info>

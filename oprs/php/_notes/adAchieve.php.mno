@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsAchieve" value="name:idachievement;datatype:int,name:level;datatype:string,name:major_course;datatype:string,name:college;datatype:string,name:country;datatype:string,name:language;datatype:string,name:d_start;datatype:string,name:d_end;datatype:string,name:results;datatype:string,name:cgpa;datatype:real,name:duration;datatype:int,name:name;datatype:string,name:staffNo;datatype:string,name:department;datatype:string,name:position;datatype:string" />
+	<infoitem key="UD_achieve" value="name:idachievement;datatype:int,name:level;datatype:string,name:major_course;datatype:string,name:college;datatype:string,name:country;datatype:string,name:language;datatype:string,name:d_start;datatype:string,name:d_end;datatype:string,name:results;datatype:string,name:cgpa;datatype:real,name:duration;datatype:int,name:name;datatype:string,name:staffNo;datatype:string,name:department;datatype:string,name:position;datatype:string" />
+</info>

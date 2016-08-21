@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Leave" value="name:idleave;datatype:int,name:fname;datatype:string,name:letterNo;datatype:string,name:staffid;datatype:string,name:department;datatype:string,name:position;datatype:string,name:level;datatype:string,name:fee;datatype:string,name:course;datatype:string,name:country;datatype:string,name:college;datatype:string,name:r_date;datatype:date,name:s_date;datatype:date,name:e_date;datatype:date" />
+</info>

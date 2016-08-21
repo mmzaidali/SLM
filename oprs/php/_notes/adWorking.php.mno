@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_prowork" value="name:idprofile;datatype:int,name:name;datatype:string,name:title;datatype:string,name:id_No;datatype:string,name:ic_No;datatype:int,name:passport_No;datatype:string,name:DOB;datatype:string,name:birth_place;datatype:string,name:gender;datatype:string,name:religion;datatype:string,name:race;datatype:string,name:status;datatype:string,name:nationality;datatype:string,name:email;datatype:string,name:password;datatype:string,name:department;datatype:string,name:division;datatype:string,name:position;datatype:string,name:level_user;datatype:string,name:photo;datatype:blob" />
+	<infoitem key="UD_working" value="name:idworking;datatype:int,name:position;datatype:string,name:d_start;datatype:string,name:d_end;datatype:string,name:salary;datatype:int,name:reason_leave;datatype:string,name:company;datatype:string,name:address;datatype:string,name:postcode;datatype:int,name:city;datatype:string,name:region;datatype:string,name:workName;datatype:string,name:workStaff;datatype:string" />
+</info>
